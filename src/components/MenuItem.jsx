@@ -1,4 +1,5 @@
 import Link from "next/link";
+import DarkModeSwitch from "./DarkModeSwitch";
 
 export default function MenuItem({ title, address, Icon }) {
   return (
